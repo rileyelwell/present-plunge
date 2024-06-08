@@ -1,0 +1,15 @@
+- later fixes
+	- create seamless audio (persistent in all scenes)
+	- check walk animation (add hat) for player
+	- check button click for scene switch (audio)
+	- look at adding separate collider for player or adjusting size after first present
+	- address the proper game balance (add difficulties?)
+
+	- assets
+		- sleigh?
+
+	- stretch goals
+		- change sprites for presents
+		- add special present for extra life
+		- make presents "fly" when hit by anvil
+			- need to add either a coroutine or get it in update somehow

@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Present
+  - Anvil
+  - CaughtPresent
+  - BackgroundPresent
+  - BackgroundElf
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background Elf
+  - Water
+  - UI
+  - FallingPresent
+  - StackedPresent
+  - TopPresent
+  - BackgroundPresent
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1771385027
+    locked: 0
+  - name: Player
+    uniqueID: 2400184121
+    locked: 0
+  - name: StackedPresent
+    uniqueID: 1276245107
+    locked: 0
+  - name: TopPresent
+    uniqueID: 2273270305
+    locked: 0
+  - name: FallingObject
+    uniqueID: 387309995
+    locked: 0
+  - name: UI
+    uniqueID: 3379022633
+    locked: 0
